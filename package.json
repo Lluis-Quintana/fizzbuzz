@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lluis-Quintana/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lluis-Quintana/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/Lluis-Quintana/fizzbuzz#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
