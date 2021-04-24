@@ -14,9 +14,7 @@ function fizzbuzz(num){
   }
   return num;
 }
-
 module.exports = fizzbuzz;
-
 
 function print(num){
   for(i=0;i<num;i++){
@@ -24,4 +22,4 @@ function print(num){
   }
 }
 
-print(16);
+print(52);
